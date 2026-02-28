@@ -38,7 +38,7 @@ export default function App() {
                 <a href="#contact" className="inline-flex items-center gap-2 rounded-xl border border-slate-300 px-5 py-3 text-sm font-semibold dark:border-slate-700">Contact Me</a>
               </div>
               <div className="mt-6 flex items-center gap-4 text-slate-600 dark:text-slate-300">
-                <a href="https://www.linkedin.com" target="_blank" rel="noreferrer" className="rounded-full border border-slate-300 p-2 dark:border-slate-700"><Linkedin size={16} /></a>
+                <a href="https://www.linkedin.com/in/jaydeepmanchanda/" target="_blank" rel="noreferrer" className="rounded-full border border-slate-300 p-2 dark:border-slate-700"><Linkedin size={16} /></a>
                 <a href="mailto:manchandajaydeep@gmail.com" className="rounded-full border border-slate-300 p-2 dark:border-slate-700"><Mail size={16} /></a>
               </div>
             </motion.div>
@@ -144,7 +144,7 @@ export default function App() {
             <motion.div {...reveal} className="glass-card space-y-4 p-6 text-slate-700 dark:text-slate-200">
               <p className="inline-flex items-center gap-2"><Mail size={16} /> manchandajaydeep@gmail.com</p>
               <p className="inline-flex items-center gap-2"><Phone size={16} /> +91-9915641031</p>
-              <a href="https://www.linkedin.com" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 text-brand-600 dark:text-brand-300"><Linkedin size={16} /> LinkedIn Profile</a>
+              <a href="https://www.linkedin.com/in/jaydeepmanchanda/" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 text-brand-600 dark:text-brand-300"><Linkedin size={16} /> LinkedIn Profile</a>
             </motion.div>
           </div>
         </section>

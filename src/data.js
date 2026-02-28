@@ -78,8 +78,8 @@ export const projects = [
 ]
 
 export const stats = [
-  { label: 'Years Experience', value: '1+' },
-  { label: 'Projects Delivered', value: '3+' },
+  { label: 'Years Experience', value: '2+' },
+  { label: 'Projects Delivered', value: '5+' },
   { label: 'Dashboards Built', value: '12+' },
   { label: 'SLA Compliance Improvement', value: '40%' }
 ]
